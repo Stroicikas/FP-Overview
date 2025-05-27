@@ -28,3 +28,7 @@ Currently using Redis for the database.
 - Such as database models (Account Model, Character Model, Market Model etc).
 - Byte readers and writers to allow easy storage and transfer of byte arrays.
 - Redis PUB/SUB methods to allow for easy communications between servers connected to the database.
+
+### DISCLAIMER
+
+- This repo is private can showcase upon request
